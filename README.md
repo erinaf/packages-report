@@ -21,7 +21,7 @@ Overview
 
 The goal of packages-report is to FINISH THIS SENTENCE.
 
-I have `nrow(read_csv(here("data", "installed-packages.csv")))` add-on packages installed.
+I have `{r} nrow(read_csv(here("data", "installed-packages.csv")))` add-on packages installed.
 
 Here's how they break down in terms of which version of R they were built under, which is related to how recently they were updated on CRAN.
 
